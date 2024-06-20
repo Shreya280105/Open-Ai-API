@@ -34,7 +34,7 @@ def process_data():
         })
     return jsonify(results)
 
-openai.api_key = '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'
+openai.api_key = 'sk-GKhidepasswx'
 
 if __name__ == '__main__':
     from waitress import serve
